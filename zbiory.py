@@ -13,5 +13,7 @@ print(pierwszy_zbior | drugi_zbior)
 print(pierwszy_zbior & drugi_zbior)
 print(pierwszy_zbior ^ drugi_zbior)
 
+print(type(pierwszy_zbior))
+
 # zbory nie wspieraja indeksowania
 # print(pierwszy_zbior[0])

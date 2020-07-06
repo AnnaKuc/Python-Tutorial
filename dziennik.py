@@ -19,5 +19,7 @@ for value in dziennik.values():
 dziennik[2] = "Nowy uczen"
 print("Nowy uczen to " + dziennik[2])
 
+print(type(dziennik))
+
 # Slownik - struktura danych, ktora przechowuje pary klucz:wartosc.
 # Klucze musza miec unikalna wartosc.

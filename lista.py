@@ -36,3 +36,5 @@ print(ksiazki)
 print(alfabetycznie)
 print(od_konca)
 
+print(type(ksiazki))
+
